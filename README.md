@@ -1,4 +1,4 @@
-📍 Place Picker
+# 📍 Place Picker
 Place Picker is a React web application that allows users to select, view, and manage locations efficiently. It provides a clean and interactive interface with features for adding, deleting, and tracking places.
 
 ---
